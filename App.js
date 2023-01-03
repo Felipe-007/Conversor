@@ -21,7 +21,7 @@ export default class App extends Component{
   render(){
     return(
       <View style={styles.container}>
-        <Conversor moedaA="BLR" moedaB="USD" />
+        <Conversor moedaA="BRL" moedaB="USD" />
       </View>
     )
   }

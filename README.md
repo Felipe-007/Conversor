@@ -16,6 +16,10 @@
 ## 💻 Projeto
 Aplicativo desenvolvido em React Native, afim de converter moedas utilizando a API currencyconverterapi.
 
+Para isso, será necessário o cadastramento no site: https://free.currencyconverterapi.com/ , para a utilização da API
+
+Uma vez com a chave de acesso, essa deverá ser inserida no arquivo conversor/index.js, na linha 24, substituindo o valor: 7c5ef455b88d735bc6ad para a sua key
+
 ## ✨ Tecnologias
 
 -   [ ] React
